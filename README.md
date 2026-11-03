@@ -66,4 +66,4 @@ sequenceDiagram
 
 ---
 
-Designed and delivered by [Adil Ahmed](https://adilahmed.info) at [Start Daily xyz Limited](https://startdaily.xyz), Dhaka.
+Designed and delivered by [Adil Ahmed](https://github.com/AdilAhmedAhir) at [Start Daily xyz Limited](https://startdaily.xyz), Dhaka.
