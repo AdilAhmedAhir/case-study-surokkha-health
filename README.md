@@ -2,14 +2,6 @@
 
 > **Architecture case study.** Source code is private and owned by the client. This repository contains original documentation only: no client code, data, credentials or assets.
 
-## Problem
-
-A health services provider needed to onboard members and applicants, verify identity, track referrals and rewards, and keep members informed, for users who may not have an email address and often use Android phones.
-
-## Solution
-
-A Next.js platform with a guided onboarding and verification flow, a referral and points engine, SMS-based communication, and an Android app built from the same codebase with Capacitor.
-
 ## Architecture
 
 ```mermaid
@@ -23,6 +15,14 @@ flowchart LR
   APP --> SMS[SMS gateway]
   ADM[Admin review console] --> APP
 ```
+
+## Problem
+
+A health services provider needed to onboard members and applicants, verify identity, track referrals and rewards, and keep members informed, for users who may not have an email address and often use Android phones.
+
+## Solution
+
+A Next.js platform with a guided onboarding and verification flow, a referral and points engine, SMS-based communication, and an Android app built from the same codebase with Capacitor.
 
 ## Key flow
 
